@@ -7,7 +7,7 @@ trained on it. It is evaluated against a test set, and the accuracy score is out
 
 This runs the standard parameters found on the tensorflow tutorial. Accuracy score is 92%
 
-It might be possible to get a higher score by doing the following:
+It may be possible to get a higher score by doing the following:
 
 1. Change batch_size
 2. Change which columns are used as features (e.g. use fewer columns, use principal components)
