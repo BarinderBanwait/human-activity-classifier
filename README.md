@@ -1,7 +1,7 @@
 # human-activity-classifier
 Train a deep neural network to classify human activity from sensor data recorded by a Samsung Galaxy SII. 
 
-Simply run 'predict_human_activity_classifier.py' and behold the 5 epochs of training! It'll tell you the accuracy score afterwards, it should be around 92%, but given the random nature of training, your mileage may vary.
+Simply run 'predict_human_activity_boilerplate.py' and behold the 5 epochs of training! It'll tell you the accuracy score afterwards, it should be around 92%, but given the random nature of training, your mileage may vary.
 
 The data is contained in the folder UCI_HAR_Dataset. It comes from the UC Irvine Machine Learning Repository at this website:
 
